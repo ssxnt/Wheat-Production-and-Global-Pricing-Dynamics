@@ -1,5 +1,7 @@
 # **Wheat Production and Global Pricing Dynamics**
 
+*Created by Matthew Ocampo, Sam Sims, Judith Haryanto, Sant Sumetpong*
+
 ## **Introduction**
 Changes in food prices depend on changes in input costs that goes into food production. As such, should there be changes in input costs, we would expect to see changes in food prices. The research question we’re interested in is the temporal relationship between changes in input costs with changes in food prices with time progression, and ultimately which inputs are predicted to be the greatest contributors towards changes in wheat prices.
 
